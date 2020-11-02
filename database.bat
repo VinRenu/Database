@@ -1,2 +1,2 @@
 @echo off
-echo "Hello">C:\new.txt
+echo "Hello">C:\Users\Vinayak\Desktop\testDB\new1.txt
