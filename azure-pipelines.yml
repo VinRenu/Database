@@ -20,4 +20,4 @@ steps:
     publishLocation: 'pipeline'
 - task: BatchScript@1
   inputs:
-    filename: '$(System.DefaultWorkingDirectory)/_VinRenu.Database/DB-Artifact/s/database.bat'
+    filename: '$(System.DefaultWorkingDirectory)/database.bat'
